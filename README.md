@@ -19,7 +19,8 @@ Bu, ileride daha gelişmiş sensörler (PM2.5, CO₂, OLED ekran, Wi-Fi) eklemek
 
 ## 🔌 Devre Şeması
 
-![Devre Şeması]()
+<img width="1536" height="598" alt="Swanky Stantia-Bojo" src="https://github.com/user-attachments/assets/71d2fb32-ab94-4719-954d-b6ac1b3ce42a" />
+
 
 
 ---
