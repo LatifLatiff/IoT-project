@@ -43,17 +43,7 @@ Bu, ileride daha gelişmiş sensörler (PM2.5, CO₂, OLED ekran, Wi-Fi) eklemek
 
 ---
 
-## 📸 Proje Görselleri
 
-### Devre Görseli
-![Kurulu Devre](images/devre_foto.jpg)
-
-### Çalışma Anı
-![Çalışma](images/calisma.jpg)
-
-> Buraya kendi devre fotoğraflarını ekleyebilirsin.  
-
----
 
 ## 📈 Gelecek Adımlar
 - PM2.5 sensörü (PMS5003 veya SDS011) eklenerek **hava kirliliği ölçümü**
