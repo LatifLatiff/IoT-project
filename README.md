@@ -30,7 +30,7 @@ Bu, ileride daha gelişmiş sensörler (PM2.5, CO₂, OLED ekran, Wi-Fi) eklemek
 2. **Kütüphane Kurulumu**  
    - `DHT sensor library by Adafruit`
    - `Adafruit Unified Sensor`  
-3. Bu repo içindeki `hava_kalitesi_adim1.ino` dosyasını Arduino IDE ile aç.  
+3. Bu repo içindeki `dht_11_arduino.ino` dosyasını Arduino IDE ile aç.  
 4. Kodu **Arduino UNO**'ya yükle.  
 
 ---
